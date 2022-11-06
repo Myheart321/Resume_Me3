@@ -1,0 +1,54 @@
+body{
+  margin: 0px;
+text-align: center;
+font-size: 1em;
+font-family:'Roboto Slab', serif;
+}
+<style>
+
+h2{
+  font: Roboto Slab bold 30px/150px Mongolian ;
+}
+h1{
+  font: Roboto Slab bold 50px/150px Condensed;
+}
+</style>
+div {
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background-color: #FFFFFF;
+}
+.middle-container{
+  background-color: #C3F8FF;
+}
+.bottom-container{
+  background-color: #C3F8FF;
+
+}
+
+img{
+  display: inline;
+}
+.top-cloud{
+  position: absolute;
+top: 50px;
+right: 300px;
+}
+
+}
+.sql-server{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.underline{
+  text-decoration: underline;
